@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f7fa;
+  color: #333;
+  margin: 40px;
+}
+
+h1 {
+  color: skyblue;
+  text-align: center;
+}
+
+h2 {
+  color: #003366;
+}
+
+h3 {
+  color: orangered;
+}
+
+p#text {
+  padding-left: 300px;
+  padding-right: 300px;
+}
+
+ul {
+  list-style-type: none;
+
+}
+code, pre {
+  background-color: #f0f0f0;
+  padding: 5px;
+  border-radius: 5px;
+  display: block;
+  margin: 5px 0;
+}
